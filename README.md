@@ -4,7 +4,7 @@
 
 ### XingTong MStarBot
 
-以 Windows 桌面、電腦視覺與可設定流程為核心的遊戲自動化工具。
+支援 **楓星、新楓之谷：經典版**。以 Windows 桌面、電腦視覺與可設定流程為核心的遊戲自動化工具。
 
 [下載最新版本](https://github.com/ayzn0524/MStarBot_Updates/releases/latest) · [查看所有版本](https://github.com/ayzn0524/MStarBot_Updates/releases)
 
