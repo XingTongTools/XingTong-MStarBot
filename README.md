@@ -32,6 +32,11 @@
 
 既有版本仍從 `ayzn0524/MStarBot_Updates` 檢查更新。品牌頁建立後不搬移舊 Repository，避免舊版使用者失去更新來源。
 
+## 官方 LINE
+
+如需產品諮詢、使用協助或取得最新消息，可透過星瞳官方 LINE 聯絡：
+
+[**加入星瞳官方 LINE**](https://lin.ee/OC4MoWM)
 ## 文件與問題回報
 
 - [常見問題](docs/FAQ.md)
