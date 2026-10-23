@@ -1,6 +1,6 @@
 # 星瞳 MStarBot｜價目、購買與交付說明
 
-[返回產品介紹](../README.md) · [常見問題](FAQ.md) · [星瞳產品客服 LINE](https://lin.ee/OC4MoWM)
+[工作室網站｜Axis V Studio](https://axisvstudio.com) · [返回產品介紹](../README.md) · [常見問題](FAQ.md) · [星瞳產品客服 LINE](https://lin.ee/OC4MoWM)
 
 資料整理日：**2026-10-18（臺灣時間）**。
 
@@ -11,7 +11,7 @@
 - **品牌／經營型態**：星瞳，由個人工作室營運。
 - **產品**：支援楓星、新楓之谷：經典版的 Windows 遊戲自動化軟體，包含視覺辨識及可設定流程；完整功能見[產品介紹](../README.md)。
 - **本頁列示的官方商品**：軟體時數、會員升級／續期、遠端設置與地圖客製化服務券。
-- **客服 Email**：[lijiacheng.jb@gmail.com](mailto:lijiacheng.jb@gmail.com)。
+- **工作室網站**：[Axis V Studio](https://axisvstudio.com)。
 - **客服 LINE**：[星瞳產品客服 LINE](https://lin.ee/OC4MoWM)。
 
 程式另含市集、刊登與交付紀錄功能，也有使用者上架數位商品及遊戲帳號相關類別。實際開放範圍依平台設定與商品頁列示；第三方賣方、商品價格、交付與保障條件應個別揭露，不將所有市集商品視為本工作室自行開發或直接販售的軟體。本頁官方商品價目表不適用於第三方市集商品。
@@ -84,7 +84,7 @@
 
 ### 申請方式
 
-透過[客服 Email：lijiacheng.jb@gmail.com](mailto:lijiacheng.jb@gmail.com)或[星瞳產品客服 LINE](https://lin.ee/OC4MoWM)提出申請，提供訂單編號、購買項目、付款日期與問題說明，並保存可核對的對話與交易紀錄。付款證明請只交付給該筆案件需要的受理窗口，不貼到公開 Issues。
+透過[星瞳產品客服 LINE](https://lin.ee/OC4MoWM)提出申請，提供訂單編號、購買項目、付款日期與問題說明，並保存可核對的對話與交易紀錄。付款證明請只交付給該筆案件需要的受理窗口，不貼到公開 Issues。
 
 ### 依交易狀態分別處理
 
