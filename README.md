@@ -6,7 +6,7 @@
 
 支援 **楓星、新楓之谷：經典版**，以桌面操作、電腦視覺辨識與可設定流程為核心。
 
-[價目與購買說明](docs/PURCHASE.md) · [產品與授權諮詢](https://lin.ee/OC4MoWM) · [下載最新版本](https://github.com/ayzn0524/MStarBot_Updates/releases/latest) · [常見問題](docs/FAQ.md)
+[工作室網站｜Axis V Studio](https://axisvstudio.com) · [價目與購買說明](docs/PURCHASE.md) · [產品與授權諮詢](https://lin.ee/OC4MoWM) · [下載最新版本](https://github.com/ayzn0524/MStarBot_Updates/releases/latest) · [常見問題](docs/FAQ.md)
 
 </div>
 
@@ -69,9 +69,9 @@
 
 [**加入星瞳產品客服 LINE**](https://lin.ee/OC4MoWM)
 
-客服 Email：[lijiacheng.jb@gmail.com](mailto:lijiacheng.jb@gmail.com)
+工作室網站：[Axis V Studio](https://axisvstudio.com)
 
-產品諮詢、授權方案、安裝協助及售後問題，可透過以上 Email 或 LINE 聯絡。客服服務時段與人工處理時限尚待確認公告；需要核款、預約或客製交付時，請先取得明確期日。
+產品諮詢、授權方案、安裝協助及售後問題，請透過上方 LINE 客服聯絡。客服服務時段與人工處理時限尚待確認公告；需要核款、預約或客製交付時，請先取得明確期日。
 
 回報問題時，請提供程式版本、選擇的遊戲、解析度、問題時間，以及已遮蔽敏感資訊的日誌片段。請勿在公開 Issues 或留言中貼出授權碼、密碼、Webhook、API Key、個人設定檔或付款個資。
 
